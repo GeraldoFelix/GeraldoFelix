@@ -1,10 +1,10 @@
 ### Hi t
 
-## Oi eu sou a Geraldo Felix, Tech Architecture da XP Investimentos, e apaixonado por Python !
+## Oi eu sou a Geraldo Felix, aluno do IFPB e apaixonado por Python !
 <div align="center">
   <a href="https://github.com/lilianhteixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geraldo Felix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoFelix&layout=compact&langs_count=FF4500&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoFelix&layout=compact&langs_count=&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
