@@ -66,21 +66,28 @@ Me chamo Geraldo Felix da Silva Junior, tenho 19 anos e sou natural do Estado da
 />
 <img 
     align="left" 
-    alt="HTML - Básico"
-    title="HTML - Básico" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS - Básico" 
-    title="CSS - Básico"
+    alt="CSS" 
+    title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Unity" 
+    title="Unity"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
+/>
 <br/>
 <br/>
 
