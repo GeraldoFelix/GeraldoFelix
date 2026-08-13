@@ -58,11 +58,11 @@ Me chamo Geraldo Felix da Silva Junior, tenho 20 anos e sou natural do Estado da
 />
 <img 
     align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
+    alt="PostgreeSQL" 
+    title="PostgreeSQL"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
 />
 <img 
     align="left" 
