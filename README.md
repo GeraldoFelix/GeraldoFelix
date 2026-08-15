@@ -45,5 +45,10 @@ Me chamo Geraldo Felix da Silva Junior, tenho 20 anos e sou natural do Estado da
     <img alt="IntelliJ" title="IntelliJ" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
     <img alt="Visual Studio" title="Visual Studio" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
     <img alt="Vs Code" title="Vs Code" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    <img alt="GitHub" title="Github" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black" />
+      <img alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/github/black" />
+    </picture>
+
 </p>
