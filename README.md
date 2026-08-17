@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Geraldo Felix da Silva Junior, tenho 20 anos e sou natural do Estado da Paraíba. Concluí o meu ensino médio no IFPB, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas também no IFPB. Descobri a programação quando estava ingressando no Ensino Médio, onde logo me encantei com a área e tomei a decisão de ingressar ao curso de Informática e logo após no curso de ADS.
+Me chamo Geraldo Felix da Silva Junior, tenho 20 anos e sou natural do Estado da Paraíba. Concluí o meu ensino médio no IFPB, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas também no IFPB. Descobri a programação quando estava ingressando no Ensino Médio, onde logo me encantei com a área e tomei a decisão de ingressar ao curso de Informática e logo após o curso de ADS.
 
 <p align="left">
     <a href="https://github.com/GeraldoFelix?tab=repositories&sort=stargazers">
