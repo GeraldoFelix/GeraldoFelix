@@ -50,5 +50,7 @@ Me chamo Geraldo Felix da Silva Junior, tenho 20 anos e sou natural do Estado da
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black" />
       <img alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/github/black" />
     </picture>
+    <img alt="Docker" title="Docker" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+          
 
 </p>
