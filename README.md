@@ -36,6 +36,7 @@ Me chamo Geraldo Felix da Silva Junior, tenho 20 anos e sou natural do Estado da
     <img alt="Oracle" title="Oracle" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
     <img alt="Unity" title="Unity" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
     <img alt="Unreal Engine" title="Unreal Engine" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+    <img alt="Docker" title="Docker" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 </p>
 
 ### 🛠️ Principais Ferramentas
@@ -50,7 +51,6 @@ Me chamo Geraldo Felix da Silva Junior, tenho 20 anos e sou natural do Estado da
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black" />
       <img alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/github/black" />
     </picture>
-    <img alt="Docker" title="Docker" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
           
 
 </p>
